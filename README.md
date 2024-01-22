@@ -4,15 +4,10 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-pks85715@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pks85715@gmail.com)](mailto:pks85715@gmail.com)
 
-I am Aditya Srivastava😃. I am from Delhi, and currently doing my B.Tech 🏫.I love to explore , learn about new things and build.
+## Hello World!! 😁
+I am Aditya Srivastava😃.I love to explore , learn about new things and build.
 ## ⚡ Technologies
 Talk to me about - 
 - Front-end development using **HTML, Javascript,CSS,Tailwind-CSS**
 - Working on Backend Development using **Node,MongoDB and ExpressJS**
 - Solving Data structure and algorithm questions in **Java , Python , Javascript**
-## Hello World!! 🤔
-
-![Aditya Srivastava's github stats](https://github-readme-stats.vercel.app/api?username=AdityaSrivastava185&hide=["issues"]&show_icons=true)
-
-
-
