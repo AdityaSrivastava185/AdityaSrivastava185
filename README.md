@@ -12,7 +12,7 @@ Talk to me about -
 - Solving Data structure and algorithm questions in **Java , Python , Javascript**
 ## Hello World!! 🤔
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=AdityaSrivastava185&hide=["issues"]&show_icons=true)
+![Aditya Srivastava's github stats](https://github-readme-stats.vercel.app/api?username=AdityaSrivastava185&hide=["issues"]&show_icons=true)
 
 
 
