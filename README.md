@@ -4,7 +4,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-pks85715@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pks85715@gmail.com)](mailto:pks85715@gmail.com)
 
-[![AdityaSrivastava185's GitHub | Stats](https://stats.quine.sh/AdityaSrivastava185/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AdityaSrivastava185)
 
 ## Hello World!! 😁
 I am Aditya Srivastava😃.I love to explore , learn about new things and build.
