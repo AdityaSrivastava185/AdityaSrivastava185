@@ -8,7 +8,7 @@ I am Aditya Srivastava😃 a Computer Science student and a  **GitHub Global Cam
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-srivastava-92396a235/) 
-[![Gmail Badge](https://img.shields.io/badge/-pks85715@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pks85715@gmail.com)](mailto:pks85715@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pks85715@gmail.com)](mailto:pks85715@gmail.com)
 
 # 💻 Tech Stack:
 **Programming Language** </br>
