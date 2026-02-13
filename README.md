@@ -8,8 +8,7 @@ often unfinished.
 
 currently working on:
 - MonoLab UI — copy-paste components, no installs
-- public logbook — documenting the build, openly
-
+  
 i care about:
 - simplicity over abstraction
 - owning the code you ship
