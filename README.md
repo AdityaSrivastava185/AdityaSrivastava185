@@ -1,21 +1,5 @@
-### hello
+### Hello
 
-i build things on the web.
+I build things on the web.
 
-mostly frontend.
-sometimes systems.
-often unfinished.
-
-currently working on:
-- MonoLab UI — copy-paste components, no installs
-  
-i care about:
-- simplicity over abstraction
-- owning the code you ship
-- reducing friction for builders
-
-this repo is a mix of:
-experiments, notes, products, and mistakes.
-
-nothing here is polished.
-everything here is intentional.
+I’m a frontend engineer working and enjoy turning ideas into interfaces, building reusable components, and figuring out the details behind how things work. Most of my work sits around frontend systems, UI, APIs, and the occasional experiment that teaches me something new.
