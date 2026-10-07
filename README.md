@@ -12,3 +12,11 @@ A collection of independent design-engineering explorations
 * **[Intentjs](https://github.com/AdityaSrivastava185/intentjs-v2)** — A developer-focused product exploration built around complex information architecture, product interfaces, and reusable frontend systems.
 * **[Tensorly](https://github.com/AdityaSrivastava185/Tensorly)** — A creative collaboration platform exploration inspired by [Mistral AI](https://mistral.ai/) focused on interaction design, visual hierarchy, and expressive frontend experiences.
 * **[Syntra](https://github.com/AdityaSrivastava185/Syntra)** — A data-focused product exploration inspired by [Mistral AI](https://mistral.ai/solutions/coding/) designed around dense information, dashboards, responsive layouts, and making complex interfaces feel clear and usable.
+  
+## Open Source Contributions
+
+- *[Prisma ORM — Documentation](https://github.com/prisma/web/pull/6285)*
+  - **Status:** Merged
+  - **Merged:** November 20, 2024
+  - **Related issue:** #6284
+  - **Main update:** Clarified when to use `npx prisma migrate dev` versus `npx prisma db push`, including their purposes, use cases, benefits, and cautions.
