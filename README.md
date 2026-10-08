@@ -20,3 +20,10 @@ A collection of independent design-engineering explorations
   - **Merged:** November 20, 2024
   - **Related issue:** #6284
   - **Main update:** Clarified when to use `npx prisma migrate dev` versus `npx prisma db push`, including their purposes, use cases, benefits, and cautions.
+
+## Fullstack Projects blends with Design Engineering
+
+- *[Inverge](https://github.com/AdityaSrivastava185/Inverge)*
+  - Inverge is a platform that lists multiple developer events. Users can view event details and register via email.
+  - Inverge is a production-ready, open-source event listing platform built with modern web technologies and strong OSS engineering practices.
+  - This project focuses on clean pull requests, clear documentation, scalable architecture, and AI-assisted code reviews using CodeRabbit
