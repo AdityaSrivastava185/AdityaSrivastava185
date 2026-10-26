@@ -15,6 +15,12 @@ A collection of independent design-engineering explorations
   
 ## Open Source Contributions
 
+- *[Microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners/pull/1360)*
+  - **Status:** Merged
+  - **Merged:** Oct 3, 2025
+  - **Related issue:** #1360
+  - **Main update:** This update enhances the Git contribution guide by adding information on setting an upstream branch `git push -u` and the modern alternative to git checkout `git switch`. These additions aim to improve clarity and accessibility, especially for beginners contributing to open-source projects.
+
 - *[Prisma ORM — Documentation](https://github.com/prisma/web/pull/6285)*
   - **Status:** Merged
   - **Merged:** November 20, 2024
